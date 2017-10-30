@@ -1,7 +1,7 @@
 {
-  "name": "vue2demo",
+  "name": "vueDemo2",
   "version": "1.0.0",
-  "description": "555",
+  "description": "vue-cli+webpack 初始项目",
   "author": "Moonlightg <g1079832313@163.com>",
   "private": true,
   "scripts": {
